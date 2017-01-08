@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Geometry()
+comment0.text=\r\n\ This\ is\ the\ default\ constructor\ for\ creating\ Geometry\ objects,\r\n\ it\ then\ sets\ all\ of\ the\ area\ values\ to\ zero.\r\n
+comment1.params=circleRadius\ rectLength\ rectWidth\ triBase\ triHeight\ trapHeight\ trapBase1\ trapBase2
+comment1.target=Geometry(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment1.text=\r\n\ This\ overloaded\ constructor\ calls\ the\ methods\ needed\ to\ change\ the\ \r\n\ field\ and\ variable\ values,\ and\ sets\ all\ of\ the\ area\ values\ to\ zero.\r\n\ @param\ circleRadius\:\ The\ radius\ of\ the\ circle\ to\ be\ calculated.\r\n\ @param\ rectLength\:\ The\ length\ of\ a\ rectangle\ to\ be\ calculated.\r\n\ @param\ rectWidth\:\ The\ width\ of\ a\ rectangle\ to\ be\ calculated.\r\n\ @param\ triBase\:\ The\ base\ of\ a\ triangle\ to\ be\ calculated.\r\n\ @param\ triHeight\:\ The\ height\ of\ a\ triangle\ to\ be\ calculated.\r\n\ @param\ trapHeight\:\ The\ height\ of\ a\ trapezoid\ to\ be\ calculated.\r\n\ @param\ trapBase1\:\ The\ base\ of\ a\ trapezoid\ to\ be\ calculated.\r\n\ @param\ trapBase2\:\ The\ second\ base\ of\ a\ trapezoid\ to\ be\ calculated.\r\n
+comment2.params=circleRadius
+comment2.target=double\ calcCircleArea(double)
+comment2.text=\r\n\ This\ static\ method\ calculates\ the\ area\ of\ a\ circle.\r\n\ @param\ circleRadius\:\ The\ radius\ of\ the\ circle\ to\ be\ calculated.\r\n\ @return\ circleArea\:\ The\ area\ of\ the\ circle.\r\n
+comment3.params=rectLength\ rectWidth
+comment3.target=double\ calcRectArea(double,\ double)
+comment3.text=\r\n\ This\ static\ method\ calculates\ the\ area\ of\ a\ rectangle.\r\n\ @param\ rectLength\:\ The\ length\ of\ the\ rectangle\ to\ be\ calculated.\r\n\ @param\ rectWidth\:\ The\ width\ of\ the\ rectangle\ to\ be\ calculated.\r\n\ @return\ rectArea\:\ The\ area\ of\ the\ rectangle.\r\n
+comment4.params=triBase\ triHeight
+comment4.target=double\ calcTriArea(double,\ double)
+comment4.text=\r\n\ This\ static\ method\ calculates\ the\ area\ of\ a\ triangle.\r\n\ @param\ triBase\:\ The\ base\ of\ the\ trianlge\ to\ be\ calculated.\r\n\ @param\ triHeight\:\ The\ height\ of\ the\ triangle\ to\ be\ calculated.\r\n\ @return\ triArea\:\ The\ area\ of\ the\ triangle.\ \r\n
+comment5.params=trapBase1\ trapBase2\ trapHeight
+comment5.target=double\ calcTrapArea(double,\ double,\ double)
+comment5.text=\r\n\ This\ static\ method\ calculates\ the\ area\ of\ a\ trapezoid.\r\n\ @param\ trapBase1\:\ The\ base\ of\ the\ trapezoid\ to\ be\ calculated.\r\n\ @param\ trapBase2\:\ The\ second\ base\ of\ a\ trapezoid\ to\ be\ calculated.\r\n\ @param\ trapHeight\:\ The\ height\ of\ a\ trapezoid\ to\ be\ calculated.\r\n\ @return\ trapArea\:\ The\ area\ of\ the\ trapezoid.\ \r\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clients()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Clients\r\n
+comment1.params=inLast\ inFirst\ inAddress\ inID\ inVisits\ inBal\ inNumOfPets
+comment1.target=Clients(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=boolean\ equals(Clients)
+numComments=4

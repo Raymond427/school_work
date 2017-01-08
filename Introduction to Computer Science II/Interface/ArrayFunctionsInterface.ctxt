@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=double[]\ sortMe(double[])
+comment1.params=array
+comment1.target=double\ getMax(double[])
+comment2.params=array
+comment2.target=double\ getMin(double[])
+comment3.params=array\ searchValue
+comment3.target=int\ whereAmI(double[],\ double)
+comment4.params=array
+comment4.target=double\ sumMeUp(double[])
+comment5.params=array
+comment5.target=double[]\ reverseMe(double[])
+comment6.params=array
+comment6.target=void\ printMe(double[])
+comment7.params=array
+comment7.target=double[]\ doubleMySize(double[])
+numComments=8

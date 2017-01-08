@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ This\ method\ performs\ all\ of\ the\ driver's\ tasks\r\n\ @param\ more\:\ stops\ the\ while\ loop\ if\ the\ customer\ enters\ 'n'.\r\n\ @param\ priceOfItem\:\ the\ original\ price\ of\ the\ item.\r\n\ @param\ discountPercent\:\ The\ percentage\ of\ the\ original\ price.\r\n\ @param\ discountPrice\:\ The\ item's\ price\ after\ the\ discount\ is\ calculated.\r\n\ @param\ tax\:\ The\ tax\ of\ the\ item.\r\n\ @param\ priceTotal\:\ The\ total\ price\ without\ tax.\r\n\ @param\ totalTax\:\ The\ total\ tax\ accumulated.\r\n\ @param\ subtotal\:\ The\ discounted\ price\ of\ an\ item,\ plus\ it's\ tax.\r\n\ @param\ sum\:\ total\ money\ due.\r\n\ @param\ cash\:\ amount\ of\ money\ customer\ inputs.\r\n\ @param\ change\:\ money\ due\ to\ the\ customer.\r\n
+numComments=1

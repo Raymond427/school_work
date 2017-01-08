@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ This\ method\ performs\ all\ of\ the\ driver's\ tasks\r\n\ @param\ goAgain\:\ stops\ the\ while\ loop\ if\ the\ customer\ enters\ 'n'.\r\n\ @param\ hoursUsed\:\ hours\ spent\ online\r\n\ @param\ option\:\ customer\ chooses\ thier\ package\r\n\ @param\ choice\:\ cost\ of\ the\ customer's\ package\ choice.\r\n\ @param\ savingsB\:\ money\ saved\ if\ the\ customer\ chose\ package\ B.\r\n\ @param\ savingsC\:\ money\ saved\ if\ the\ customer\ chose\ package\ C.\r\n
+numComments=1

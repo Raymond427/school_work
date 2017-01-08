@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=TAX_RATE
+comment0.target=SaleItem(double)
+comment0.text=\r\n\ This\ constructor\ sets\ all\ of\ the\ initial\ fields\ to\ zero.\r\n\ @param\ TAX_RATE\:\ a\ constant\ used\ to\ calculate\ tax\r\n
+comment1.params=priceOfItem\ discountPrice
+comment1.target=SaleItem(double,\ double)
+comment1.text=\r\n\ This\ constructor\ calls\ the\ methods\ needed\ to\ change\ the\ \r\n\ field\ and\ variable\ values\r\n\ @param\ priceOfItem\:\ the\ original\ price\ of\ the\ item\r\n\ @param\ discountPrice\:\ The\ item's\ price\ after\ the\ discount\ is\ calculated\r\n
+comment2.params=priceOfItem
+comment2.target=void\ setPriceOfItem(double)
+comment2.text=\r\n\ This\ method\ calls\ the\ method\ needed\ to\ calculate\ the\ \r\n\ price\ after\ the\ discount\ is\ entered.\r\n\ @param\ priceOfItem\:\ the\ original\ price\ of\ the\ item\r\n
+comment3.params=discountPrice\ discountPercent
+comment3.target=void\ setDiscountPercent(double,\ double)
+comment3.text=\r\n\ This\ method\ calls\ the\ method\ needed\ to\ calculate\ the\ \r\n\ tax.\r\n\ @param\ discountPrice\:\ The\ item's\ price\ after\ the\ discount\ is\ calculated\r\n\ @param\ discountPercent\:\ The\ percentage\ of\ the\ original\ price\r\n\ that\ equals\ the\ discount\ price.\r\n
+comment4.params=priceOfItem\ discountPercent
+comment4.target=double\ calcDiscountPrice(double,\ double)
+comment4.text=\r\n\ This\ method\ calculates\ the\ discount\ price.\r\n\ @param\ priceOfItem\:\ the\ original\ price\ of\ the\ item\r\n\ @param\ discountPercent\:\ The\ percentage\ of\ the\ original\ price\r\n\ that\ equals\ the\ discount\ price.\r\n\ @return\ discountPrice\:\ The\ item's\ price\ after\ the\ discount\ is\ calculated\r\n\ (will\ equal\ original\ price\ if\ discountPercent\ is\ zero)\r\n
+comment5.params=discountPrice
+comment5.target=double\ calcTax(double)
+comment5.text=\r\n\ This\ method\ calculates\ the\ tax.\r\n\ @param\ discountPrice\:\ The\ item's\ price\ after\ the\ discount\ is\ calculated\r\n\ @return\ tax\:\ The\ tax\ of\ the\ item.\r\n
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WordProcessor()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordProcesser\r\n\ \r\n\ Description\:\ sets\ the\ initial\ value\ of\ word\ to\ unknown\r\n
+comment1.params=
+comment1.target=void\ resetCount()
+comment1.text=\r\n\ Static\ method\ resetCount\r\n\ \r\n\ Description\:\ resets\ the\ word\ and\ character\ counter\ to\ zero,\ \r\n\ in\ case\ the\ user\ repeats\ the\ function\r\n
+comment2.params=word
+comment2.target=void\ charCounter(java.lang.String)
+comment2.text=\r\n\ Static\ method\ charCount\r\n\ \r\n\ Description\:\ counts\ the\ number\ of\ characters\ present\ in\ the\ given\ word\r\n\ \r\n\ @param\ word\:\ the\ word\ from\ the\ input\ file\ sent\ from\ the\ driver.\r\n
+comment3.params=
+comment3.target=int\ getcharCount()
+comment3.text=\r\n\ Static\ method\ getcharCount\r\n\ \r\n\ Description\:\ returns\ the\ count\ to\ the\ driver\r\n\ \r\n\ @return\ charCount\:\ The\ number\ of\ characters\ counted\r\n
+comment4.params=word
+comment4.target=void\ wordCounter(java.lang.String)
+comment4.text=\r\n\ Static\ method\ wordCounter\r\n\ \r\n\ Description\:\ counts\ the\ number\ of\ words\ in\ each\ line\ of\ the\ file.\r\n\ \r\n\ @param\ word\:\ the\ word\ from\ the\ input\ file\ sent\ from\ the\ driver.\r\n
+comment5.params=
+comment5.target=int\ getwordCount()
+comment5.text=\r\n\ Static\ method\ getwordCount\r\n\ \r\n\ Description\:\ returns\ the\ count\ to\ the\ driver\r\n\ \r\n\ @return\ charCount\:\ The\ number\ of\ words\ counted\r\n
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pets()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pets\r\n
+comment1.params=inName\ inType\ inWeight\ inDateLastShot\ inDateLastVisit
+comment1.target=Pets(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

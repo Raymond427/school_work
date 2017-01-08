@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=doubles
+comment0.target=double[]\ sortMe(double[])
+comment0.text=\r\n\ Description\:\ This\ method\ creates\ a\ sorted\ copy\ of\ the\ array\ given\ to\ it.\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @return\ sorted\:\ an\ ordered\ copy\ of\ the\ given\ array\r\n
+comment1.params=doubles
+comment1.target=double\ getMax(double[])
+comment1.text=\r\n\ Description\:\ This\ method\ returns\ the\ element\ with\ the\ highest\ value\ in\ the\ array.\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @return\ max\:\ the\ element\ with\ the\ highest\ value\r\n
+comment2.params=doubles
+comment2.target=double\ getMin(double[])
+comment2.text=\r\n\ Description\:\ This\ method\ returns\ the\ element\ with\ the\ lowest\ value\ in\ the\ array.\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @return\ min\:\ the\ element\ with\ the\ lowest\ value\r\n
+comment3.params=doubles\ searchValue
+comment3.target=int\ whereAmI(double[],\ double)
+comment3.text=\r\n\ Description\:\ This\ method\ returns\ the\ the\ index\ of\ the\ element\ that\ matches\ the\ value\ given.\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @param\ searchValue\:\ the\ value\ to\ be\ searched\ for\ in\ the\ array\r\n\ @return\ found\:\ the\ index\ of\ the\ value,\ returns\ -1\ if\ the\ value\ is\ not\ found.\r\n
+comment4.params=doubles
+comment4.target=double\ sumMeUp(double[])
+comment4.text=\r\n\ Description\:\ This\ method\ returns\ the\ element\ with\ the\ lowest\ value\ in\ the\ array.\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @return\ total\:\ the\ total\ value\ of\ all\ of\ the\ elements\ in\ the\ array\r\n
+comment5.params=doubles
+comment5.target=double[]\ reverseMe(double[])
+comment5.text=\r\n\ Description\:\ This\ method\ returns\ a\ reversed\ copy\ of\ the\ array\ given\ to\ it.\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @return\ sorted\:\ a\ reversed\ copy\ of\ the\ given\ array\r\n
+comment6.params=doubles
+comment6.target=void\ printMe(double[])
+comment6.text=\r\n\ Description\:\ This\ method\ displays\ the\ array\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n
+comment7.params=doubles
+comment7.target=double[]\ doubleMySize(double[])
+comment7.text=\r\n\ Description\:\ This\ method\ doubles\ the\ length\ of\ the\ array\ given\r\n\ \r\n\ @param\ doubles\ []\:\ array\ given\ by\ the\ driver\r\n\ @return\ doubleLength\:\ the\ original\ array\ with\ twice\ as\ many\ elements\r\n
+numComments=8

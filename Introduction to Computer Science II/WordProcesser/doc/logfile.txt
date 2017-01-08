@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser
+-d
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\WordProcessor.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\WordProcessor.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\WordProcessor.html...
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\WordProcessor.java:44: warning - @param argument "word:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\WordProcessor.java:68: warning - @param argument "word:" is not a parameter name.
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\package-frame.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\package-summary.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\allclasses-frame.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\allclasses-noframe.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\index.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\WordProcesser\doc\stylesheet.css...
+2 warnings

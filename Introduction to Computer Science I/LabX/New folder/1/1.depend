@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1398481070 source:c:\users\acer\documents\uncc\junior year (2013-2014)\itcs 1212 introduction to computer science\labx\new folder\1\main.cpp
+	<iostream>
+	<fstream>
+

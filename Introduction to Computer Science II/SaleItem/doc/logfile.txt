@@ -1,0 +1,54 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem
+-d
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\Driver.html...
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:12: warning - @class: is an unknown tag.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "more:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "priceOfItem:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "discountPercent:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "discountPrice:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "tax:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "priceTotal:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "totalTax:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "subtotal:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "sum:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "cash:" is not a parameter name.
+C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\Driver.java:28: warning - @param argument "change:" is not a parameter name.
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\package-frame.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\package-summary.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\allclasses-frame.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\allclasses-noframe.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\index.html...
+Generating C:\Users\ACER\Documents\UNCC\Senior Year... (2014-2015)\ITCS 1213\SaleItem\doc\stylesheet.css...
+12 warnings
